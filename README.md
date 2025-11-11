@@ -6,7 +6,7 @@ Chat with an AI, analyze your messages in real-time, and visualize mood trends.
 
 ## 🌐 Live Demo
 You can try the app live on Hugging Face Spaces:  
-[Hugging Face](https://huggingface.co/spaces/Khushi545/Emotion-Companion)
+[Emotion Companion](https://huggingface.co/spaces/Khushi545/Emotion-Companion)
 
 ## 🚀 Features
 - Conversational AI chat with **sentiment** and **emotion detection**  
@@ -49,4 +49,5 @@ streamlit run app.py
 ---
 
 ```
+
 

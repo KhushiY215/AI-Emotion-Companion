@@ -6,7 +6,7 @@ Chat with an AI, analyze your messages in real-time, and visualize mood trends.
 
 ## 🌐 Live Demo
 You can try the app live on Hugging Face Spaces:  
-[https://huggingface.co/spaces/Khushi545/Emotion-Companion](https://huggingface.co/spaces/Khushi545/Emotion-Companion)
+[Hugging Face](https://huggingface.co/spaces/Khushi545/Emotion-Companion)
 
 ## 🚀 Features
 - Conversational AI chat with **sentiment** and **emotion detection**  
@@ -26,11 +26,11 @@ You can try the app live on Hugging Face Spaces:
 Clone the repo and install dependencies:
 
 ```bash
-git clone <repo-link>
-cd <repo-folder>
+git clone https://github.com/KhushiY215/AI-Emotion-Companion.git
+cd AI-Emotion-Companion
 pip install -r requirements.txt
 streamlit run app.py
-````
+```
 
 > The app will open in your default browser at `http://localhost:8501`.
 
@@ -48,6 +48,5 @@ streamlit run app.py
 
 ---
 
-
-I can also make a **super compact version** suitable for Hugging Face Spaces that looks clean on their UI. Do you want me to do that?
 ```
+

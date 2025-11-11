@@ -41,13 +41,7 @@ streamlit run app.py
 * `README.md` — Project documentation
 * `Dockerfile` — For containerized deployment (optional)
 
-## 💡 Notes
-
-* The Hugging Face Space may **sleep after inactivity**, but it will restart when accessed.
-* All data stays in your session; no user data is stored externally.
-
----
-
 ```
+
 
 

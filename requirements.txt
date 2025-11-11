@@ -1,0 +1,10 @@
+streamlit==1.39.0
+transformers
+torch==2.4.1
+pandas==2.2.2
+plotly==5.14.1
+numpy==1.26.4
+wordcloud==1.8.2
+pillow==10.0.1
+fpdf2==2.6.0
+matplotlib==3.8.2

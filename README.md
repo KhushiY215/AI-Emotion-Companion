@@ -39,7 +39,11 @@ streamlit run app.py
 * `app.py` — Main Streamlit application
 * `requirements.txt` — Python dependencies
 * `README.md` — Project documentation
-* `Dockerfile` — For containerized deployment (optional)
+
+## 📄 License
+
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+
 
 
 

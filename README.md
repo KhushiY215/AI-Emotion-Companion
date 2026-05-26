@@ -1,8 +1,11 @@
+<div align="center">
 
 # 💬 AI Sentiment Analyzer & Emotion Chat Dashboard
 
 A full-fledged **emotion-aware conversational AI dashboard** using Hugging Face Transformers and Streamlit.  
 Chat with an AI, analyze your messages in real-time, and visualize mood trends.
+
+</div>
 
 ## 🌐 Live Demo
 You can try the app live on Hugging Face Spaces:  
